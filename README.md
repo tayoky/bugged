@@ -1,5 +1,6 @@
 # bugged
 just a test for bugged launcher
+the source code will be here in a few day (i am fixing some issue)
 # note
 note that the website and the launcher are open source
 but not the game   
